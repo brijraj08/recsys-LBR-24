@@ -1,4 +1,4 @@
-! [Process](./process-1.png)
+! [](process-1.png)
 
 NOTE: Code provided works well with Pytorch 1.12.1.
 
