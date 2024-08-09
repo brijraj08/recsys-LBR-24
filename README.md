@@ -1,4 +1,4 @@
-! [](process-1.png)
+! [Process Diagram is here](./process1.png)
 
 NOTE: Code provided works well with Pytorch 1.12.1.
 
